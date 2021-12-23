@@ -1,0 +1,41 @@
+{
+    "name": "MetaversePro",
+    "website": "https://www.metaverse.pro/",
+    "description": "The Reserve Currency for Metaverse and Blockchain",
+    "explorer": "https://bscscan.com/token/0x0a2046C7fAa5a5F2b38C0599dEB4310AB781CC83",
+    "type": "BEP20",
+    "symbol": "META",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x0a2046C7fAa5a5F2b38C0599dEB4310AB781CC83",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MetaverseProDAO"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/MetaversePRO"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/metaversepro"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/channel/UCzyx4EwrW2STL1P1StThJAQ"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/metaversepro/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/metaversepro"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/MetaversePRO/meta-contracts"
+        }
+    ]
+}
